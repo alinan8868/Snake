@@ -1,2 +1,2 @@
 # Snake
-This program is a  game name snake .
+This program is a little game  .
